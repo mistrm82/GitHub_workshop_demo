@@ -1,4 +1,4 @@
 # Print Hello World
 myString <- "Hello, World!"
 
-print (myString)
+print c("My first script:", (myString))
